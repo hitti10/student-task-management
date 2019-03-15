@@ -1,7 +1,6 @@
 from tkinter import messagebox
 from tkinter import *
 from tkinter import ttk
-from tkinter import messagebox
 from tkinter.filedialog import askopenfilename
 import calendar
 import tkinter as tk
